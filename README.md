@@ -1,6 +1,6 @@
 # Spool Holder with Integrated RFID Reader
 
-This is a spool holder with an integrated RFID reader. It reads a custom RFID tag on the spool (inside the `.3mf` file, you can find adapters for Bambu and eSun spools) and tracks filament quantity in connection with a cloud service. The quantity is tracked based on tasks running through the cloud service. This system helps me efficiently manage the remaining filament on spools, optimizing task distribution among printers.
+This is a spool holder with an integrated RFID reader. It reads a custom RFID tag on the spool and tracks filament quantity in connection with a cloud service. The quantity is tracked based on tasks running through the cloud service. This system helps me efficiently manage the remaining filament on spools, optimizing task distribution among printers.
 
 ## Compatibility
 This spool holder is designed to be used with **JetForge**, a 3D printing business and farm management software. However, you are free to modify the firmware as needed.
