@@ -7,7 +7,6 @@
 
 class ApiClient {
 private:
-    const char* url = "https://test-app.3dprintfarm.cloud/tag/api/test";
     Settings * settings;
     WiFiClientSecure client;
 
