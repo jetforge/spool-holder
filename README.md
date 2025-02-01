@@ -33,9 +33,9 @@ This spool holder is designed to be used with **JetForge**, a 3D printing busine
   [AliExpress Link](https://www.aliexpress.com/item/1005003423084423.html)
 - **BTT SFS V2.0 Smart Filament Sensor**  
   [BIQU Store](https://biqu.equipment/products/btt-sfs-v2-0-smart-filament-sensor)
-- **3mm screws for thermoplastics** *(Preferred but optional)*  
+- **3mm screws for thermoplastics**
   [TME Link](https://www.tme.eu/lv/ru/details/b3x20_bn2041/shurupy/bossard/3757664/)
-- **Ribbon cable** *(Color scheme matches the GitHub repository)*  
+- **Ribbon cable** *(Color scheme matches the pinout.pdf)*  
   [AliExpress Link](https://www.aliexpress.com/item/4001132905947.html)
 
 ## Wiring
