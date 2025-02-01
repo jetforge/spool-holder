@@ -36,7 +36,7 @@ This spool holder is designed to be used with **JetForge**, a 3D printing busine
   [AliExpress Link](https://www.aliexpress.com/item/4001132905947.html)
 
 ## Wiring
-- The provided ribbon cable follows the color scheme in the GitHub repository.
+- The provided ribbon cable follows the color scheme in pinout.pdf file
 - You can use **2.54mm pin headers** or **solder wires directly** to the RFID and screen module PCBs.
 
 ## Contribution & Feedback
