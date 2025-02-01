@@ -9,9 +9,6 @@ This spool holder is designed to be used with **JetForge**, a 3D printing busine
 - A free plan for hobbyists and small businesses will be available.
 - Contact me for beta access: [sergey@jetforge.app](mailto:sergey@jetforge.app)
 
-## Repository
-- **Firmware and Project STEP Files:** [GitHub Repository](https://github.com/jetforge/spool-holder/)
-
 ## Hardware Components
 
 ### Main Board
